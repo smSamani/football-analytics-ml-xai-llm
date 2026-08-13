@@ -130,7 +130,10 @@ _Use for educational and non-commercial research only. StatsBomb data is open-ac
 
 ## 📄 License
 
-MIT License (see LICENSE file).  
-For research and educational use. Please cite this repository if you use this pipeline in your work.
+The original source code and original project materials in this repository are licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE).
 
----
+You may use, modify, and redistribute them only for noncommercial purposes. Commercial use, selling the project, charging for access, or using it as part of a paid product or service is not permitted.
+
+**Required attribution:** Copyright © Soroush Mohammadi Samani (smSamani). This attribution must remain with every copy, modified version, and redistribution.
+
+Third-party dependencies, datasets, APIs, trademarks, and other materials remain subject to their own licenses and terms.
